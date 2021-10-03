@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tmdgjs2592/John Lee
+- 👀 I’m interested in Coding/Algorithm.
+- 🌱 I’m currently learning Python.
+- 📫 How to reach me tmdgjs2592@gmail.com
+- Currently in SMC.
